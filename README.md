@@ -60,24 +60,27 @@
 
 ---
 
-<!-- Programming Languages Section -->
+<!-- Advanced Technical Writing Methodologies Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/--%20Languages%20%26%20Codebases%20--%20-121212?style=flat-square&logo=codeforces&logoColor=ffffff&labelColor=333333" alt="Languages Title" />
+  <img src="https://img.shields.io/badge/--%20Core%20Competencies%20%26%20Methodologies%20--%20-121212?style=flat-square&logo=gitbook&logoColor=ffffff&labelColor=333333" alt="Methodologies Title" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Information%20Architecture-Structured%20Content-ffffff?style=for-the-badge&logo=mindnode&logoColor=121212" alt="Information Architecture" />
+  <img src="https://img.shields.io/badge/API%20Documentation-REST%20%26%20GraphQL-ffffff?style=for-the-badge&logo=graphql&logoColor=121212" alt="API Documentation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+  <img src="https://img.shields.io/badge/UX%20Writing-Microcopy%20%26%20Design-b1b1b1?style=for-the-badge&logo=figma&logoColor=121212" alt="UX Writing" />
+  <img src="https://img.shields.io/badge/Content%20Strategy-Lifecycle%20Management-b1b1b1?style=for-the-badge&logo=googleanalytics&logoColor=121212" alt="Content Strategy" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20Branching-b1b1b1?style=for-the-badge&logo=git&logoColor=121212" alt="Version Control" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Style%20Guides-Microsoft%20%7C%20Google-666666?style=for-the-badge&logo=microsoft&logoColor=ffffff" alt="Style Guides" />
+  <img src="https://img.shields.io/badge/Single%20Sourcing-Component%20Reuse-666666?style=for-the-badge&logo=webflow&logoColor=ffffff" alt="Single Sourcing" />
 </p>
 
 ---
