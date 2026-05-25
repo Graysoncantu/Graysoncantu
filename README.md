@@ -1,6 +1,6 @@
  Hi, I'm Grayson — Technical Writer
 
-I bridge the gap between complex engineering systems and human understanding. I specialize in creating clear, concise, and developer-centric documentation that scales.
+I bridge the gap between complex engineering systems and human understanding. I specialize in creating clear, concise, and user-centric documentation that scales.
 
 ---
 
