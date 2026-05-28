@@ -24,4 +24,4 @@ I bridge the gap between complex engineering systems and human understanding. I 
 Markup & Formats  ▪  Markdown, MDX, reStructuredText, OpenAPI/Swagger, JSON, YAML
 Static Sites      ▪  Docusaurus, Hugo, Sphinx, Astro, MkDocs
 Version Control   ▪  Git, GitHub, GitLab, Bitbucket
-Languages (Read)  ▪  JavaScript, TypeScript, Python, HTML/CSS
+Languages   ▪  JavaScript, TypeScript, Python, HTML/CSS
