@@ -21,7 +21,7 @@ I bridge the gap between complex engineering systems and human understanding. I 
  🛠️ Toolstack & Technologies
 
 ```text
-Markup & Formats  ▪  Markdown, MDX, reStructuredText, OpenAPI/Swagger, JSON, YAML
-Static Sites      ▪  Docusaurus, Hugo, Sphinx, Astro, MkDocs
-Version Control   ▪  Git, GitHub, GitLab, Bitbucket
-Languages   ▪  JavaScript, TypeScript, Python, HTML/CSS
+Markup & Formats ▪  Markdown, MDX, reStructuredText, OpenAPI/Swagger, JSON, YAML
+Static Sites ▪  Docusaurus, Hugo, Sphinx, Astro, MkDocs
+Version Control ▪  Git, GitHub, GitLab, Bitbucket
+Languages ▪  JavaScript, TypeScript, Python, HTML/CSS
